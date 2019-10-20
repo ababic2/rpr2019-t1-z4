@@ -31,5 +31,4 @@ public class Supermarket {
         }
         return null;
     }
-
 }
